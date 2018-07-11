@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 [image1]: ./report_images/car_example.png
 [image2]: ./report_images/hog_visual.png
 [image3]: ./report_images/sliding_windows.png
-[image4]: ./report_images/sliding_window.jpg
+[image4]: ./report_images/sliding_window.png
 [image5]: ./report_images/bboxes_and_heat.png
 [video1]: ./project_video_out.mp4
 
